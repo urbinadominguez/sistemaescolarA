@@ -1,0 +1,15 @@
+{
+    "name": "urbina/s_e_axios",
+    "description": "\"Sistema escolar con axios\"",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Brayan Urbina",
+            "email": "urbinadominguezb@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.17",
+        "illuminate/events": "^8.17"
+    }
+}
